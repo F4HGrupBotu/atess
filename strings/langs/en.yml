@@ -2,9 +2,9 @@ name : 🇺🇸 English
 
 
 general_1 : "» BİR KULLANICININ MESAJINA CEVAP VERİN VEYA KULLANICI ADI/KULLANICI KİMLİĞİ VERİN."
-general_2 : "» sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ ᴡʜɪʟᴇ ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ǫᴜᴇʀʏ.\n\nᴇxᴄᴇᴘᴛɪᴏɴ : <code>{0}</code>"
-general_3 : "ʏᴏᴜ'ʀᴇ ᴀɴ ᴀɴᴏɴʏᴍᴏᴜs ᴀᴅᴍɪɴ ɪɴ ᴛʜɪs ᴄʜᴀᴛ, ʀᴇᴠᴇʀᴛ ʙᴀᴄᴋ ᴛᴏ ᴜsᴇʀ ᴀᴄᴄᴏᴜɴᴛ ғᴏʀ ᴜsɪɴɢ ᴍᴇ."
-general_4 : "» ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴘᴇʀᴍɪssɪᴏɴs ᴛᴏ ᴍᴀɴᴀɢᴇ ᴠɪᴅᴇᴏ ᴄʜᴀᴛs.\n\nʀᴇʟᴏᴀᴅ ᴀᴅᴍɪɴ ᴄᴀᴄʜᴇ ᴠɪᴀ /reload"
+general_2 : "» SORUNUZ İŞLENİRKEN BİR ŞEYLER YANLIŞ OLDU.\n\nᴇxᴄᴇᴘᴛɪᴏɴ : <code>{0}</code>"
+general_3 : "BU SOHBETTE ANONİM BİR YÖNETİCİSİNİZ, BENİ KULLANMANIZ İÇİN KULLANICI HESABINIZA GERİ DÖNÜN."
+general_4 : "» ⛔️GÖRÜNTÜLÜ SOHBETLERİ YÖNETME İZNİNİZ YOK..\n\nʀᴇʟᴏᴀᴅ ᴀᴅᴍɪɴ ᴄᴀᴄʜᴇ ᴠɪᴀ /reload"
 general_5 : "» ʙᴏᴛ ɪsɴ'ᴛ sᴛʀᴇᴀᴍɪɴɢ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ."
 
 tg_1 : "<u><b>{0} ᴅᴏᴡɴʟᴏᴀᴅᴇʀ</b></u>\n\n<b>ғɪʟᴇ sɪᴢᴇ :</b> {1}\n<b>ᴄᴏᴍᴘʟᴇᴛᴇᴅ :</b> {2}\n<b>ᴘᴇʀᴄᴇɴᴛᴀɢᴇ :</b> {3}%\n\n<b>sᴘᴇᴇᴅ :</b> {4}/s\n<b>ᴇᴛᴀ :</b> {5}"
