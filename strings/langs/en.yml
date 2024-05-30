@@ -5,7 +5,7 @@ general_1 : "» BİR KULLANICININ MESAJINA CEVAP VERİN VEYA KULLANICI ADI/KULLA
 general_2 : "» SORUNUZ İŞLENİRKEN BİR ŞEYLER YANLIŞ OLDU.\n\nᴇxᴄᴇᴘᴛɪᴏɴ : <code>{0}</code>"
 general_3 : "BU SOHBETTE ANONİM BİR YÖNETİCİSİNİZ, BENİ KULLANMANIZ İÇİN KULLANICI HESABINIZA GERİ DÖNÜN."
 general_4 : "» ⛔️GÖRÜNTÜLÜ SOHBETLERİ YÖNETME İZNİNİZ YOK..\n\nʀᴇʟᴏᴀᴅ ᴀᴅᴍɪɴ ᴄᴀᴄʜᴇ ᴠɪᴀ /reload"
-general_5 : "» ʙᴏᴛ ɪsɴ'ᴛ sᴛʀᴇᴀᴍɪɴɢ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ."
+general_5 : "» ❗️BOT GÖRÜNTÜLÜ SOHBETTE AKIŞ YAPMIYOR."
 
 tg_1 : "<u><b>{0} ᴅᴏᴡɴʟᴏᴀᴅᴇʀ</b></u>\n\n<b>ғɪʟᴇ sɪᴢᴇ :</b> {1}\n<b>ᴄᴏᴍᴘʟᴇᴛᴇᴅ :</b> {2}\n<b>ᴘᴇʀᴄᴇɴᴛᴀɢᴇ :</b> {3}%\n\n<b>sᴘᴇᴇᴅ :</b> {4}/s\n<b>ᴇᴛᴀ :</b> {5}"
 tg_2 : "sᴜᴄᴄᴇssғᴜʟʟʏ ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ, ᴘʀᴏᴄᴇssɪɴɢ ғɪʟᴇ...\n\n<b>ᴛɪᴍᴇ ᴇʟᴀᴘsᴇᴅ :</b> {0}"
