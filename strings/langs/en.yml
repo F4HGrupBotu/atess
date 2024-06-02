@@ -179,8 +179,8 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "➲ <b>📡 YAYINLANMAYA BAŞLANDI |</b>\n\n<b>🎬 BAŞLIK :</b> <a href={0}>{1}</a>\n<b>🔋 SÜRE :</b> {2}🪫 DAKİKA\n<b>📜 TALEP EDENLER :</b> {3}"
-stream_2 : "➲ <b>📡 YAYINLANMAYA BAŞLANDI |</b>\n\n<b>🎬 AKIŞ TÜRÜ :</b> CANLI YAYIN [ᴜʀʟ]\n<b>📜 TALEP EDENLER :</b> {0}"
+stream_1 : "➲ <b>🌊Yayına Başladı|</b>\n\n<b>🌀Başlık:</b> <a href={0}>{1}</a>\n<b>⌛️SÜRE:</b> {2}💧Dakika\n<b>🌬Talep Eden:</b> {3}"
+stream_2 : "➲ <b>🌊Yayına Başladı|</b>\n\n<b>☂🌙Akış Türü:</b> CANLI YAYIN [ᴜʀʟ]\n<b>🌬Talep Eden:</b> {0}"
 
 
 CLOSE_BUTTON  : "✯ KAPAT ✯"
